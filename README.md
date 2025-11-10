@@ -1,3 +1,7 @@
+# github-actions rip
+
+[![show-directory](https://github.com/yakovmedvedev/github-actions/actions/workflows/show-directory.yml/badge.svg)](https://github.com/yakovmedvedev/github-actions/actions/workflows/show-directory.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
