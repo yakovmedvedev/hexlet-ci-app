@@ -10,4 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps: # список шагов, которые надо выполнить
         - uses: actions/checkout@v4
-        - run: make say-hello
+        - run: make setup
+        - run: make test
+        - run: make lint
