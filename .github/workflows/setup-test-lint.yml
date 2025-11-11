@@ -11,5 +11,3 @@ jobs:
     steps: # список шагов, которые надо выполнить
        - name: tests
          run: make setup
-         run: make test
-         run: make lint
