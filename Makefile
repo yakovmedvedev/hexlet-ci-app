@@ -1,4 +1,5 @@
-setup: install build
+setup:
+	install build
 
 install:
 	npm install
@@ -13,6 +14,6 @@ test:
 	npm test
 
 lint:
-	npx eslint .
+	npx eslint
 
 .PHONY: build
