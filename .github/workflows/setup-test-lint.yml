@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps: # список шагов, которые надо выполнить
        - name: tests
-         run: make setup
+         run: make test
